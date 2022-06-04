@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://grexon-hack.github.io/csb-32nzoo/static/css/main.8c7a0cb2.chunk.css",
+    "main.js": "https://grexon-hack.github.io/csb-32nzoo/static/js/main.81b07b77.chunk.js",
+    "main.js.map": "https://grexon-hack.github.io/csb-32nzoo/static/js/main.81b07b77.chunk.js.map",
+    "runtime-main.js": "https://grexon-hack.github.io/csb-32nzoo/static/js/runtime-main.d21cae69.js",
+    "runtime-main.js.map": "https://grexon-hack.github.io/csb-32nzoo/static/js/runtime-main.d21cae69.js.map",
+    "static/js/2.434579ef.chunk.js": "https://grexon-hack.github.io/csb-32nzoo/static/js/2.434579ef.chunk.js",
+    "static/js/2.434579ef.chunk.js.map": "https://grexon-hack.github.io/csb-32nzoo/static/js/2.434579ef.chunk.js.map",
+    "index.html": "https://grexon-hack.github.io/csb-32nzoo/index.html",
+    "static/css/main.8c7a0cb2.chunk.css.map": "https://grexon-hack.github.io/csb-32nzoo/static/css/main.8c7a0cb2.chunk.css.map",
+    "static/js/2.434579ef.chunk.js.LICENSE.txt": "https://grexon-hack.github.io/csb-32nzoo/static/js/2.434579ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d21cae69.js",
+    "static/js/2.434579ef.chunk.js",
+    "static/css/main.8c7a0cb2.chunk.css",
+    "static/js/main.81b07b77.chunk.js"
+  ]
+}
